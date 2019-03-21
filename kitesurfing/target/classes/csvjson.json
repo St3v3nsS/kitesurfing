@@ -1,0 +1,586 @@
+[
+  {
+    "name": "Futuna",
+    "longitude": -178.1228,
+    "latitude": -14.3056,
+    "windProbability": 86,
+    "country": "Cook Islands",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Shelley Point",
+    "longitude": 17.95,
+    "latitude": -32.71,
+    "windProbability": 86,
+    "country": "South Africa",
+    "whenToGo": "JANUARY"
+  },
+  {
+    "name": "Anakao",
+    "longitude": 43.646,
+    "latitude": -23.6717,
+    "windProbability": 87,
+    "country": "South Africa",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "Cubagua",
+    "longitude": -64.16,
+    "latitude": 10.82,
+    "windProbability": 87,
+    "country": "Venezuela",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "Fishermen's Bay",
+    "longitude": 59.67,
+    "latitude": 22.03,
+    "windProbability": 87,
+    "country": "Oman",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Pocitas Beach",
+    "longitude": -81.08,
+    "latitude": -4.11,
+    "windProbability": 87,
+    "country": "Ecuador",
+    "whenToGo": "OCTOBER"
+  },
+  {
+    "name": "Zapara",
+    "longitude": -71.5667,
+    "latitude": 10.9866,
+    "windProbability": 87,
+    "country": "Venezuela",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "2nd Bay",
+    "longitude": -9.78,
+    "latitude": 31.48,
+    "windProbability": 88,
+    "country": "Morocco",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Adicora",
+    "longitude": -69.8,
+    "latitude": 11.93,
+    "windProbability": 88,
+    "country": "Venezuela",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Bahia de San Pedro",
+    "longitude": -63.98,
+    "latitude": 10.8,
+    "windProbability": 88,
+    "country": "Venezuela",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "Bunker Beach",
+    "longitude": 115.04,
+    "latitude": -33.54,
+    "windProbability": 88,
+    "country": "Australia",
+    "whenToGo": "JANUARY"
+  },
+  {
+    "name": "Dolphin beach, Guns",
+    "longitude": 14.54,
+    "latitude": -22.8445,
+    "windProbability": 88,
+    "country": "South Africa",
+    "whenToGo": "OCTOBER"
+  },
+  {
+    "name": "Essaouira",
+    "longitude": -9.7636,
+    "latitude": 31.5019,
+    "windProbability": 88,
+    "country": "Morocco",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Isla Holbox",
+    "longitude": -87.25,
+    "latitude": 21.55,
+    "windProbability": 88,
+    "country": "Mexico",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "Nunura",
+    "longitude": -81.12,
+    "latitude": -5.84,
+    "windProbability": 88,
+    "country": "Ecuador",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "Diego Suarez - Baie d'Andovokonko",
+    "longitude": 49.3968,
+    "latitude": -12.2889,
+    "windProbability": 89,
+    "country": "Tanzania",
+    "whenToGo": "OCTOBER"
+  },
+  {
+    "name": "Langebaan",
+    "longitude": 18.03,
+    "latitude": -33.08,
+    "windProbability": 89,
+    "country": "South Africa",
+    "whenToGo": "JANUARY"
+  },
+  {
+    "name": "Observatory Beach",
+    "longitude": 121.77,
+    "latitude": -33.9,
+    "windProbability": 89,
+    "country": "Australia",
+    "whenToGo": "JANUARY"
+  },
+  {
+    "name": "Phan Thiet",
+    "longitude": 108.8,
+    "latitude": 10.7,
+    "windProbability": 89,
+    "country": "Viet Nam",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Pimentel",
+    "longitude": -79.93,
+    "latitude": -6.84,
+    "windProbability": 89,
+    "country": "Peru",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "Sidi Abdellah",
+    "longitude": -9.47,
+    "latitude": 31.9,
+    "windProbability": 89,
+    "country": "Morocco",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Alibaba",
+    "longitude": -22.97,
+    "latitude": 16.71,
+    "windProbability": 90,
+    "country": "Senegal",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "Bandy Creek",
+    "longitude": 122,
+    "latitude": -33.82,
+    "windProbability": 90,
+    "country": "Australia",
+    "whenToGo": "JANUARY"
+  },
+  {
+    "name": "Barra Grande",
+    "longitude": -41.4117,
+    "latitude": -2.91,
+    "windProbability": 90,
+    "country": "Brazil",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Bequia",
+    "longitude": -61.24,
+    "latitude": 13.01,
+    "windProbability": 90,
+    "country": "Guadeloupe",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "Punta Abreojos",
+    "longitude": -113.57,
+    "latitude": 26.7,
+    "windProbability": 90,
+    "country": "Mexico",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "Farwah",
+    "longitude": 11.7,
+    "latitude": 33.12,
+    "windProbability": 91,
+    "country": "Libya",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Jeddah, South Corniche",
+    "longitude": 39.3508,
+    "latitude": 20.8704,
+    "windProbability": 91,
+    "country": "Saudi Arabia",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Lagoon",
+    "longitude": 108.95,
+    "latitude": 10.54,
+    "windProbability": 91,
+    "country": "Viet Nam",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Puerto Caballos",
+    "longitude": -75.49,
+    "latitude": -14.94,
+    "windProbability": 91,
+    "country": "Peru",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "Fourth Mile Beach",
+    "longitude": 121.82,
+    "latitude": -33.89,
+    "windProbability": 92,
+    "country": "Australia",
+    "whenToGo": "JANUARY"
+  },
+  {
+    "name": "Kaliantan Lombok",
+    "longitude": 116.4841,
+    "latitude": -8.9156,
+    "windProbability": 92,
+    "country": "Indonesia",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Limassol, Anemometer",
+    "longitude": 33.0235,
+    "latitude": 34.652,
+    "windProbability": 92,
+    "country": "United Kingdom",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Los Roques",
+    "longitude": -66.67,
+    "latitude": 11.95,
+    "windProbability": 92,
+    "country": "Venezuela",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "Namena Island",
+    "longitude": 179.0998,
+    "latitude": -17.1098,
+    "windProbability": 92,
+    "country": "New Zealand",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "Zanzibar / Ras Nungwi",
+    "longitude": 39.2986,
+    "latitude": -5.7229,
+    "windProbability": 92,
+    "country": "Tanzania",
+    "whenToGo": "JANUARY"
+  },
+  {
+    "name": "Al Mirfa",
+    "longitude": 53.4844,
+    "latitude": 24.1026,
+    "windProbability": 93,
+    "country": "United Arab Emirates",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Dakar",
+    "longitude": -17.43,
+    "latitude": 14.67,
+    "windProbability": 93,
+    "country": "Senegal",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "Exmouth (Dunes)",
+    "longitude": 114.1388,
+    "latitude": -21.8002,
+    "windProbability": 93,
+    "country": "Australia",
+    "whenToGo": "OCTOBER"
+  },
+  {
+    "name": "Geraldton",
+    "longitude": 114.6,
+    "latitude": -28.76,
+    "windProbability": 93,
+    "country": "Australia",
+    "whenToGo": "OCTOBER"
+  },
+  {
+    "name": "Point Moore",
+    "longitude": 114.57,
+    "latitude": -28.78,
+    "windProbability": 93,
+    "country": "Australia",
+    "whenToGo": "OCTOBER"
+  },
+  {
+    "name": "Walvis Bay",
+    "longitude": 14.48,
+    "latitude": -22.9,
+    "windProbability": 93,
+    "country": "South Africa",
+    "whenToGo": "OCTOBER"
+  },
+  {
+    "name": "Cabo de La Vela",
+    "longitude": -72.1479,
+    "latitude": 12.1934,
+    "windProbability": 94,
+    "country": "Venezuela",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "DOSC, Dubai Offshore Sailing Club",
+    "longitude": 55.2153,
+    "latitude": 25.1758,
+    "windProbability": 94,
+    "country": "United Arab Emirates",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "HERZLIA SEA SCOUTS",
+    "longitude": 34.8007,
+    "latitude": 32.1737,
+    "windProbability": 94,
+    "country": "Israel",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Sal / Santa Maria",
+    "longitude": -22.909,
+    "latitude": 16.592,
+    "windProbability": 94,
+    "country": "Senegal",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "Shark Bay",
+    "longitude": 18.0452,
+    "latitude": -33.1135,
+    "windProbability": 94,
+    "country": "South Africa",
+    "whenToGo": "JANUARY"
+  },
+  {
+    "name": "Sorobon",
+    "longitude": -68.23,
+    "latitude": 12.09,
+    "windProbability": 94,
+    "country": "Venezuela",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "Adam's Bridge",
+    "longitude": 79.5686,
+    "latitude": 9.0869,
+    "windProbability": 95,
+    "country": "Sri Lanka",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Boa Vista",
+    "longitude": -22.8,
+    "latitude": 16.1,
+    "windProbability": 95,
+    "country": "Senegal",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "Gazebo Point",
+    "longitude": 58.91,
+    "latitude": 20.66,
+    "windProbability": 95,
+    "country": "Oman",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Kalpitiya",
+    "longitude": 79.7017,
+    "latitude": 8.081,
+    "windProbability": 95,
+    "country": "Sri Lanka",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Kappalady",
+    "longitude": 79.706,
+    "latitude": 8.1408,
+    "windProbability": 95,
+    "country": "Sri Lanka",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "North Obhur, Danah Jed",
+    "longitude": 39.0616,
+    "latitude": 21.7483,
+    "windProbability": 95,
+    "country": "Saudi Arabia",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Oualidia-Lagune",
+    "longitude": -9.04,
+    "latitude": 32.74,
+    "windProbability": 95,
+    "country": "Morocco",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Lavanono",
+    "longitude": 44.93,
+    "latitude": -25.42,
+    "windProbability": 96,
+    "country": "South Africa",
+    "whenToGo": "OCTOBER"
+  },
+  {
+    "name": "Androka",
+    "longitude": 44.06,
+    "latitude": -25.02,
+    "windProbability": 97,
+    "country": "South Africa",
+    "whenToGo": "OCTOBER"
+  },
+  {
+    "name": "Dakhla",
+    "longitude": -15.854,
+    "latitude": 23.74,
+    "windProbability": 97,
+    "country": "Spain",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Heliophora Lagoon",
+    "longitude": -15.8564,
+    "latitude": 23.6371,
+    "windProbability": 97,
+    "country": "Spain",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Golden Beach",
+    "longitude": 33.7209,
+    "latitude": 27.3136,
+    "windProbability": 98,
+    "country": "Egypt",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Tamania (Cap 8)",
+    "longitude": -14.8393,
+    "latitude": 25.0817,
+    "windProbability": 98,
+    "country": "Spain",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Jericoacoara",
+    "longitude": -40.51,
+    "latitude": -2.79,
+    "windProbability": 99,
+    "country": "Brazil",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Laayoune",
+    "longitude": -13.44,
+    "latitude": 27.03,
+    "windProbability": 99,
+    "country": "Spain",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Marsa El Brega",
+    "longitude": 20.0764,
+    "latitude": 30.8995,
+    "windProbability": 99,
+    "country": "Libya",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "27-Waam",
+    "longitude": 66.8381,
+    "latitude": 24.4681,
+    "windProbability": 100,
+    "country": "India",
+    "whenToGo": "APRIL"
+  },
+  {
+    "name": "Barra Nova",
+    "longitude": -38.1499,
+    "latitude": -4.1008,
+    "windProbability": 100,
+    "country": "Brazil",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Cumbuco",
+    "longitude": -38.7299,
+    "latitude": -3.6246,
+    "windProbability": 100,
+    "country": "Brazil",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Galinhos",
+    "longitude": -36.29,
+    "latitude": -5.08,
+    "windProbability": 100,
+    "country": "Brazil",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Guajiru",
+    "longitude": -39.2312,
+    "latitude": -3.2389,
+    "windProbability": 100,
+    "country": "Brazil",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Ilha do Guajiru",
+    "longitude": -39.9086,
+    "latitude": -2.8806,
+    "windProbability": 100,
+    "country": "Brazil",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Paracas, Kangaroo Kite Shack",
+    "longitude": -76.2552,
+    "latitude": -13.8589,
+    "windProbability": 100,
+    "country": "Peru",
+    "whenToGo": "OCTOBER"
+  },
+  {
+    "name": "Socotra Island - Qualansiyah",
+    "longitude": 53.57,
+    "latitude": 12.72,
+    "windProbability": 100,
+    "country": "Oman",
+    "whenToGo": "AUGUST"
+  },
+  {
+    "name": "Westpunt (Westpoint)",
+    "longitude": -70.0594,
+    "latitude": 12.6164,
+    "windProbability": 100,
+    "country": "Venezuela",
+    "whenToGo": "APRIL"
+  }
+]

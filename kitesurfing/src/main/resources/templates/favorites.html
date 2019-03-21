@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout" layout:decorate="~{default}">
+<head>
+    <title>Favorites</title>
+</head>
+<body>
+<div layout:fragment="content">
+    <h1 th:inline="text">Hello [[${#httpServletRequest.remoteUser}]]!</h1>
+    <h2>There are the available spots</h2>
+    <h1 th:if="${spots.empty}">
+        There is no available spot
+    </h1>
+    <form class="form-signin" th:action="@{/api/favorites/spots}" method="post" id="favorites">
+        <div layout:fragment="spots" th:each="spot : ${spots}">
+            <input type="radio" th:field="*{spot}"><span th:text="${spot.name}" th:object="${spot.getName()}">Name</span>
+
+        </div>
+        <input type="submit" value="Show favorites" >
+    </form>
+
+
+</div>
+
+</body>
+</html>
